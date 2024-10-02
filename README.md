@@ -36,6 +36,7 @@ The table below lists all of the results files
 
 *Note: The differential expression analysis was first performed with all samples included in the DESeq model. After inspecting the exploratory data analysis plots, it was clear some groups had much higher within-group variation than others. This would affect the performance of the DESeq model, so subsequent comparisons were made using only the samples within the respective groups which were being compared. See the [FAQ section](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#if-i-have-multiple-groups-should-i-run-all-together-or-split-into-pairs-of-groups) of the DESeq2 manual for more information.*
 
-## Support
+## Support and Acknowledgement
 
+Vivek Das from Novo Nordisk A/S executed the preprocessing steps with the consultancy Zifo RnD Solutions (Riya Saju, James Ashmore) using in-house Seven Bridges pipeline.
 For queries [VVDA](vvda@novonordisk.com).
