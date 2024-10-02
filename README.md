@@ -32,7 +32,6 @@ The table below lists all of the results files
 | Genome/ | Reference genome files |
 | workspace_DEAnalysis/ | DESeq2 objects and results files |
 | workspace_RING/ | RING Rdata object files) |
-| workspace_BioPages/ | BioPages JSON files |
 | Manifest.csv | Manifest file |
 
 *Note: The differential expression analysis was first performed with all samples included in the DESeq model. After inspecting the exploratory data analysis plots, it was clear some groups had much higher within-group variation than others. This would affect the performance of the DESeq model, so subsequent comparisons were made using only the samples within the respective groups which were being compared. See the [FAQ section](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#if-i-have-multiple-groups-should-i-run-all-together-or-split-into-pairs-of-groups) of the DESeq2 manual for more information.*
