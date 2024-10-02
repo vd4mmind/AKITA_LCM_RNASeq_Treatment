@@ -39,4 +39,5 @@ The table below lists all of the results files
 ## Support and Acknowledgement
 
 Vivek Das from Novo Nordisk A/S executed the preprocessing steps with the consultancy Zifo RnD Solutions (Riya Saju, James Ashmore) using in-house Seven Bridges pipeline.
-For queries [VVDA](vvda@novonordisk.com).
+
+For queries Vivek Das: vvda@novonordisk.com
