@@ -1,4 +1,6 @@
-# Manuscript Title : Transcriptomics of SGLT2-positive early proximal tubule segments in mice: response to type 1 diabetes, SGLT1/2 inhibition or GLP1 receptor agonism
+# Manuscript Title : Transcriptomics of SGLT2-positive early proximal tubule segments in mice: response to type 1 diabetes, SGLT1/2 inhibition or GLP1 receptor agonism 
+
+Under review!
 
 # Authors
 Young Chul Kim<sup>1</sup> ,<sup>2</sup> *, Vivek Das<sup>3</sup>, Sadhana Kanoo<sup>1</sup> ,2</sup>, Huazhen Yao<sup>4</sup>, Stephanie M. Stanford<sup>5</sup>, Nunzio Bottini<sup>5</sup>, Anil Karihaloo<sup>7</sup>, Volker Vallon<sup>1</sup>,<sup>2</sup>,<sup>6</sup>  *
