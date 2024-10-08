@@ -1,4 +1,28 @@
-# AKITA_LCM_RNASeq_Treatment
+# Manuscript Title : Transcriptomics of SGLT2-positive early proximal tubule segments in mice: response to type 1 diabetes, SGLT1/2 inhibition or GLP1 receptor agonism
+
+# Authors
+Young Chul Kim<sup>1</sup> ,<sup>2</sup> *, Vivek Das<sup>3</sup>, Sadhana Kanoo<sup>1</sup> ,2</sup>, Huazhen Yao<sup>4</sup>, Stephanie M. Stanford<sup>5</sup>, Nunzio Bottini<sup>5</sup>, Anil Karihaloo<sup>7</sup>, Volker Vallon<sup>1</sup>,<sup>2</sup>,<sup>6</sup>  *
+
+<sup>*</sup> Contributed equally
+
+<sup>1</sup> Division of Nephrology & Hypertension, Department of Medicine, University of California San Diego, La Jolla, CA, USA
+
+<sup>2</sup>  VA San Diego Healthcare System, San Diego, CA, USA
+
+<sup>3</sup>  Novo Nordisk A/S, Søborg, Denmark
+
+<sup>4</sup>  Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA 
+
+<sup>5</sup>  Division of Rheumatology, Allergy & Immunology, Department of Medicine, University of California San Diego, La Jolla, CA, USA
+
+<sup>6</sup>  Department of Pharmacology, University of California San Diego, La Jolla, CA, USA
+
+<sup>7</sup>  Novo Nordisk 33 Hayden Ave, Lexington, MA 02421 USAUSA
+
+
+# Data and code information
+
+## AKITA_LCM_RNASeq_Treatment
 This study includes 54 mouse kidney samples stratified into 9 groups based on disease, treatment, and genotype explanatory variables. The table below summarizes the experimental design.
 &nbsp;
 
