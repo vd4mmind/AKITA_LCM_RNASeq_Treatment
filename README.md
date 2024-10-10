@@ -44,7 +44,7 @@ The full metadata is available in the [manifest](https://eu.sbgenomics.com/u/nov
 
 ## Data
 
-The raw sequencing data is available from the volume directory: ``Bioinformatics_dk/RNAseq/VVDA_mouse_CKD_AKITA_treatment``
+The raw sequencing data is available at GSE279174
 
 ## Results
 
