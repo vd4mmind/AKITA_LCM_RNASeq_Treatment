@@ -1,4 +1,4 @@
-# Manuscript Title : Transcriptomics of SGLT2-positive early proximal tubule segments in mice: response to type 1 diabetes, SGLT1/2 inhibition or GLP1 receptor agonism 
+# Manuscript Title: Transcriptomics of SGLT2-positive early proximal tubule segments in mice: response to type 1 diabetes, SGLT1/2 inhibition or GLP1 receptor agonism 
 
 *Under review!*
 
@@ -19,7 +19,7 @@ Young Chul Kim<sup>1</sup> ,<sup>2</sup> *, Vivek Das<sup>3</sup>, Sadhana Kanoo
 
 <sup>6</sup>  Department of Pharmacology, University of California San Diego, La Jolla, CA, USA
 
-<sup>7</sup>  Novo Nordisk 33 Hayden Ave, Lexington, MA 02421 USAUSA
+<sup>7</sup>  Novo Nordisk 33 Hayden Ave, Lexington, MA, USA
 
 
 # Data and code information
@@ -58,7 +58,7 @@ The table below lists all of the results files
 | Genome/ | Reference genome files |
 | workspace_EDA/ | Exploratory data analysis and results |
 | workspace_RING/ | RING Rdata object files for differential analysis using DESeq2 |
-| Manifest.csv | Manifest file |
+| Manifest_LCM_AKITA.xlsx | Manifest file |
 
 *Note: The differential expression analysis was first performed with all samples included in the DESeq model. After inspecting the exploratory data analysis plots, it was clear some groups had much higher within-group variation than others. This would affect the performance of the DESeq model, so subsequent comparisons were made using only the samples within the respective groups which were being compared. See the [FAQ section](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#if-i-have-multiple-groups-should-i-run-all-together-or-split-into-pairs-of-groups) of the DESeq2 manual for more information.*
 
