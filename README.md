@@ -2,6 +2,8 @@
 
 *Accepted*
 
+Kim YC, Das V, Kanoo S, et al. Transcriptomics of SGLT2-positive early proximal tubule segments in mice: response to type 1 diabetes, SGLT1/2 inhibition or GLP1 receptor agonism. Am J Physiol Renal Physiol. Published online November 26, 2024. https://journals.physiology.org/doi/abs/10.1152/ajprenal.00231.2024
+
 # Authors
 Young Chul Kim<sup>1</sup> ,<sup>2</sup> *, Vivek Das<sup>3</sup>, Sadhana Kanoo<sup>1</sup> ,2</sup>, Huazhen Yao<sup>4</sup>, Stephanie M. Stanford<sup>5</sup>, Nunzio Bottini<sup>5</sup>, Anil Karihaloo<sup>7</sup>, Volker Vallon<sup>1</sup>,<sup>2</sup>,<sup>6</sup>  *
 
